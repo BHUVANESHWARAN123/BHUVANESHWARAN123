@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwaran</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer🧑‍💻</h3>
+
+<img src="https://github.com/BHUVANESHWARAN123/Bhuvanesh/assets/70312003/b31f240e-9b8b-446b-9386-0e901fd3ed46" style="width:70%; background-position:center;">
 
 
 - 🌱 I’m currently learning **Machine Learning Concepts**
